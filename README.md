@@ -22,7 +22,7 @@ Henko is a Python script designed to change the MAC address of network interface
 
 ## Usage
 
-*Note: Henko needs root privileges to run.*
+   *Note: Henko needs root privileges to run.*
 
 1. Changing MAC Address (Custom)
    ```bash
