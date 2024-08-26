@@ -12,7 +12,7 @@ Henko is a Python script designed to change the MAC address of network interface
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/veilwr4ith/Henko
+   git clone https://github.com/z33phyr/Henko
    ```
 
 2. Navigate to the directory and make the script executable:
