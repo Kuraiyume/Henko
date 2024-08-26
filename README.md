@@ -46,9 +46,9 @@ Henko is a Python script designed to change the MAC address of network interface
 
 ## License
 
-This project is licensed under the MIT License
+- This project is licensed under the MIT License
 
 ## Author
 
-Veilwr4ith
+- Zephyr
 
